@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Personal Portfolio</title>
+    Personal Portfolio,about ,skills,contact
 </head>
 <body>
-    <div class="container">
-        <img class="profile-picture" src="female-image.jpg" alt="Profile Picture">
         <h1>About Me</h1>
         <p>Hi, I'm a student currently studying at IYF Rongai. I'm passionate about web development and have skills in HTML, CSS, and JavaScript.</p>
         <h2>Contact Information</h2>
