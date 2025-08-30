@@ -5,6 +5,11 @@
     Personal Portfolio,about ,skills,contact
 </head>
 <body>
+    <style>
+        p{background color;blue
+          text size;18px
+          text alignment; center}
+    </style>
         <h1>About Me</h1>
         <p>Hi, I'm a student currently studying at IYF Rongai. I'm passionate about web development and have skills in HTML, CSS, and JavaScript.</p>
         <h2>Contact Information</h2>
